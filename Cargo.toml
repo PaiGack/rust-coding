@@ -1,2 +1,2 @@
 [workspace]
-members = ["default"]
+members = ["default", "format"]
